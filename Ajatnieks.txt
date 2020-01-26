@@ -8,7 +8,8 @@
 	
 	</head>
 	<body>
-		Hello World, this is Andrew Jatnieks
+		Hello World, this is Andrew Jatnieks.
+		I am loving this git assignment. It is important to understand how to keep your work organized. I am excited to see wehere we go later in this course and i am very excited to work with Michael!
 	</body>
 	
 </html>
